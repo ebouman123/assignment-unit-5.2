@@ -4,4 +4,16 @@
 
 h1.text, h2.text {
     color: blanchedalmond;
+    text-align: center;
+}
+
+.main {
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+body {
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0;
 }
